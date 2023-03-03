@@ -1,0 +1,6 @@
+name: WorldHeightChanger
+version: '${project.version}'
+main: me.whc.worldheightchanger.WorldHeightChanger
+api-version: 1.19
+authors: [ WoodsMc ]
+description: Change the world build height
